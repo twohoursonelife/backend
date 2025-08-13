@@ -1,0 +1,12 @@
+.github
+.pytest_cache
+.venv
+.vscode
+__pycache__
+tests
+.env
+.gitignore
+Dockerfile
+example.env
+fly.toml
+README.md
